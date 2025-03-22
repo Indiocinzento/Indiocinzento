@@ -1,6 +1,6 @@
 ## Indiocinzento
 
-<h2 align="left">Hi 👋!!! Miau😸name👈é👉 Indiocinzento 👈and👉 I'😸m 👈the👉 cat 👈of👉 girls 🎶</h2>
+<h2 align="left">Hi 👋!!! Miau😸name👈é👉 Indiocinzento 👈y👉 I'😸m 👈the👉 cat 👈of👉 girls 🎶</h2>
 
 ###
 
