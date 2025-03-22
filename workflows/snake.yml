@@ -23,7 +23,7 @@ jobs:
       - uses: Indiocinzento
         id: snake-gif
         with:
-          github_user_name: nomeUsuario #Seu usuario
+          github_user_name: nomeUsuario Indiocinzento
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
@@ -44,4 +44,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-![snake gif](https://github.com/Indiocinzento/Indiocinzento/blob/output/github-contribution-grid-snake.svg)
