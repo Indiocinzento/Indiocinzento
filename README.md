@@ -1,6 +1,6 @@
 ## Indiocinzento
 
-<h2 align="left">Hi 👋 !!! Miau😸name 👈é👉 Indiocinzento 👈y👉 I'😸m 👈the👉 cat 👈of👉 girls 🎶</h2>
+<h2 align="left">Hi 👋 🎶 Miau😸name 👈é👉 Indiocinzento 👈y👉 I'😸m 👈the👉 cat 👈of👉 girls 🎶</h2>
 
 ###
 
@@ -60,7 +60,7 @@ name: Generate snake animation
 
 ###
 
-<h1 align="center">Hello 👈Cat😼Girls👉 World !!!</h1>
+<h1 align="center">Hello 👈Cat😼Girls👉 World 🎶</h1>
 
 ###
 
