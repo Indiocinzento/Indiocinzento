@@ -1,6 +1,6 @@
 ## Indiocinzento
 
-<h2 align="left">Hi 👋 🎶 Miau😸name 👈é👉 Indiocinzento 👈y👉 I'😸m 👈the👉 cat 👈of👉 girls 🎶</h2>
+<h2 align="left">Hi 👋 🎶 Miau😸name👈é👉 Indiocinzento 👈y👉 I'😸m 👈the👉 cat 👈of👉 girls 🎶</h2>
 
 ###
 
@@ -53,33 +53,20 @@
 
 ###
 
-<br clear="both">
-
-###
-
-<div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Indiocinzento/Indiocinzento/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Indiocinzento/Indiocinzento/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Indiocinzento/Indiocinzento/output/pacman-contribution-graph.svg">
 </picture>
-name: Generate pacman animation
-</div>
-
-<h1 align="center">Hello 👈Cat😼Girls👉 World 🎶</h1>
 
 ###
 
-<div>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Indiocinzento/Indiocinzento/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Indiocinzento/Indiocinzento/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Indiocinzento/Indiocinzento/output/github-contribution-grid-snake.svg">
-</picture>
-  
-_generated with [Platane/snk] (https://github.com/Platane/snk)_
-</div>
+<h2 align="center">Hello 👈Cat😼Girls👉 World 🎶</h2>
 
+###
+
+<img src="https://raw.githubusercontent.com/Indiocinzento/Indiocinzento/output/snake.svg" alt="Snake animation" />
+_generated with [Platane/snk] (https://github.com/Platane/snk)_
 ###
 
 <div align="center">
