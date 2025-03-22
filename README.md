@@ -64,6 +64,10 @@
 </picture>
 name: Generate pacman animation
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Indiocinzento/count.svg?"  />
+</div>
+
 <h1 align="center">Hello 👈Cat😼Girls👉 World 🎶</h1>
 
 ###
