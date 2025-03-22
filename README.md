@@ -57,13 +57,14 @@
 
 ###
 
+<div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Indiocinzento/Indiocinzento/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Indiocinzento/Indiocinzento/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Indiocinzento/Indiocinzento/output/pacman-contribution-graph.svg">
 </picture>
 name: Generate pacman animation
-
+</div>
 
 <h1 align="center">Hello 👈Cat😼Girls👉 World 🎶</h1>
 
