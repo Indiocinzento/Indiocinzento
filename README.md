@@ -53,11 +53,13 @@
 
 ###
 
+<div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Indiocinzento/Indiocinzento/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Indiocinzento/Indiocinzento/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Indiocinzento/Indiocinzento/output/pacman-contribution-graph.svg">
 </picture>
+</div>
 
 ###
 
@@ -65,7 +67,15 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Indiocinzento/Indiocinzento/output/snake.svg" alt="Snake animation" />
+<div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Indiocinzento/Indiocinzento/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Indiocinzento/Indiocinzento/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Indiocinzento/Indiocinzento/output/github-contribution-grid-snake.svg">
+</picture>
+
+  _generated 👈w/👉 [Platane/snk] 👈😼👉 (https://github.com/Platane/snk)_
+</div>
 
 ###
 
