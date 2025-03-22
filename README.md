@@ -60,7 +60,7 @@ name: Generate snake animation
 
 ###
 
-<h1 align="center">Hello😼World !!</h1>
+<h1 align="center">Hello 👈Cat😼Girls👉 World !!!</h1>
 
 ###
 
@@ -88,5 +88,4 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 </div>
 
-![snake gif](https://github.com/Indiocinzento/Indiocinzento/blob/output/github-contribution-grid-snake.svg)
 ###
