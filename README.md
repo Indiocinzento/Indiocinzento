@@ -85,4 +85,5 @@ name: Generate pacman animation
   <img src="https://profile-counter.glitch.me/Indiocinzento/count.svg?"  />
 </div>
 
+![snake gif](https://github.com/Indiocinzento/Indiocinzento/blob/output/github-contribution-grid-snake.svg)
 ###
