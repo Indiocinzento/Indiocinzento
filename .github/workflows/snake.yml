@@ -21,7 +21,7 @@ jobs:
       - name: generate snake.svg
         uses: Indiocinzento
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Indiocinzento
           outputs: dist/snake.svg?palette=github-dark
 
 
