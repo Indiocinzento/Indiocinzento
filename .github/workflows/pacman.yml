@@ -19,7 +19,7 @@ jobs:
 
     steps:
       - name: generate pacman-contribution-graph.svg
-        uses: indiocinzento/pacman-contribution-graph@main
+        uses: indiocinzento
         with:
           github_user_name: ${{ github.repository_owner }}
 
