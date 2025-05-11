@@ -46,7 +46,7 @@
 ###
 
 <div align="left">
-  <a href="indiocinzento@tutamail.com" target="_blank">
+  <a href="indiocinzento@mail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Tutamail&logo=tutamail&label=&color=D14836&logoColor=purple&labelColor=&style=for-the-badge" height="35" alt="tutamail logo"  />
   </a>
 </div>
